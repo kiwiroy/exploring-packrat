@@ -1,0 +1,57 @@
+---
+title: "Exploring `packrat`"
+author: "Roy Storey"
+date: "1/8/2018"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+```
+
+## Description
+
+[packrat](http://rstudio.github.io/packrat/) is a package manager for R, much like pip for Python, cpanminus for perl, Bundler for Ruby gems, npm for node and yarn for javascript. Each of these package managers share a common goal of reproducibly installing an environment in which to run a user's code. Most allow for specification of the name and version of a list dependencies in a single file.
+
+```{r compare, echo = FALSE}
+manager <- c("packrat", "pip", "cpanminus", "bundler", "npm", "yarn")
+language <- c("R", "Python", "Perl", "Ruby", "NodeJS", "Javascript")
+entity <- c("packages", "modules", "modules", "gems", "packages", "packages")
+spec_file <- c("`packrat.lock`", "`requirements.txt`", "`cpanfile`", "`Gemfile`", "`package.json`", "`package.json`")
+t <- data.frame(manager, language, entity, spec_file)
+knitr::kable(t)
+```
+
+## Usage
+
+Some of these steps are manual in other languages.
+
+* [walkthrough](http://rstudio.github.io/packrat/walkthrough.html)
+
+### Initialisation
+
+```{r init, eval = FALSE, highlight = TRUE}
+packrat::init()
+```
+
+### Installation
+
+#### From an authored `packrat.lock`
+
+```{r install-packrat, eval = FALSE}
+packrat::restore()
+```
+
+#### While developing
+
+```{r install-develop, eval = FALSE}
+install.packages(dplyr)
+packrat::snapshot()
+```
+
+### State
+
+```{r status, eval = FALSE}
+packrat::status()
+```
