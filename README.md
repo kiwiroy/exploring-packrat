@@ -94,13 +94,13 @@ assertthat
 Easy Pre and Post Assertions
 </td>
 <td style="text-align:left;">
-R 3.3.0; ; 2018-01-08 01:37:18 UTC; unix
+R 3.4.0; ; 2017-04-21 21:17:22 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -114,13 +114,13 @@ backports
 Reimplementations of Functions Introduced Since R-3.0.0
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2018-01-08 01:51:00 UTC; unix
+R 3.4.3; x86\_64-apple-darwin15.6.0; 2017-12-14 08:46:34 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -134,13 +134,13 @@ base64enc
 Tools for base64 encoding
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2018-01-08 01:51:03 UTC; unix
+R 3.4.0; x86\_64-apple-darwin15.6.0; 2017-04-21 21:26:37 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -154,13 +154,13 @@ BH
 Boost C++ Header Files
 </td>
 <td style="text-align:left;">
-R 3.3.0; ; 2018-01-08 01:35:02 UTC; unix
+R 3.4.1; ; 2017-08-25 04:28:47 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -174,13 +174,13 @@ bindr
 Parametrized Active Bindings
 </td>
 <td style="text-align:left;">
-R 3.3.0; ; 2018-01-08 01:37:20 UTC; unix
+R 3.4.0; ; 2017-04-22 01:29:35 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -194,13 +194,13 @@ bindrcpp
 An 'Rcpp' Interface to Active Bindings
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2018-01-08 01:38:03 UTC; unix
+R 3.4.0; x86\_64-apple-darwin15.6.0; 2017-06-18 06:32:00 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -214,13 +214,13 @@ bitops
 Bitwise Operations
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2018-01-08 01:50:16 UTC; unix
+R 3.4.0; x86\_64-apple-darwin15.6.0; 2017-04-21 21:59:50 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -234,13 +234,13 @@ caTools
 Tools: moving window statistics, GIF, Base64, ROC AUC, etc.
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2018-01-08 01:50:38 UTC; unix
+R 3.4.0; x86\_64-apple-darwin15.6.0; 2017-04-21 22:12:36 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -254,13 +254,13 @@ cli
 Helpers for Developing Command Line Interfaces
 </td>
 <td style="text-align:left;">
-R 3.3.0; ; 2018-01-08 01:38:00 UTC; unix
+R 3.4.2; ; 2017-11-06 09:28:23 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -274,13 +274,13 @@ crayon
 Colored Terminal Output
 </td>
 <td style="text-align:left;">
-R 3.3.0; ; 2018-01-08 01:37:24 UTC; unix
+R 3.4.1; ; 2017-09-17 04:43:27 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -294,13 +294,13 @@ digest
 Create Compact Hash Digests of R Objects
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2018-01-08 01:50:00 UTC; unix
+R 3.4.3; x86\_64-apple-darwin15.6.0; 2017-12-15 05:21:16 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -314,13 +314,13 @@ dplyr
 A Grammar of Data Manipulation
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2018-01-08 01:38:28 UTC; unix
+R 3.4.2; x86\_64-apple-darwin15.6.0; 2017-09-29 04:33:12 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -334,13 +334,13 @@ evaluate
 Parsing and Evaluation Tools that Provide More Details than the Default
 </td>
 <td style="text-align:left;">
-R 3.3.0; ; 2018-01-08 01:50:42 UTC; unix
+R 3.4.1; ; 2017-07-03 11:17:49 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -354,13 +354,13 @@ formatR
 Format R Code Automatically
 </td>
 <td style="text-align:left;">
-R 3.3.0; ; 2018-01-08 01:50:05 UTC; unix
+R 3.4.0; ; 2017-04-26 03:41:45 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -374,13 +374,13 @@ glue
 Interpreted String Literals
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2018-01-08 01:37:26 UTC; unix
+R 3.4.2; x86\_64-apple-darwin15.6.0; 2017-10-30 08:48:16 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -394,13 +394,13 @@ highr
 Syntax Highlighting for R Source Code
 </td>
 <td style="text-align:left;">
-R 3.3.0; ; 2018-01-08 01:50:07 UTC; unix
+R 3.4.0; ; 2017-04-21 21:21:08 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -414,13 +414,13 @@ htmltools
 Tools for HTML
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2018-01-08 01:50:27 UTC; unix
+R 3.4.0; x86\_64-apple-darwin15.6.0; 2017-04-29 03:24:16 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -434,13 +434,13 @@ jsonlite
 A Robust, High Performance JSON Parser and Generator for R
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2018-01-08 01:51:07 UTC; unix
+R 3.4.0; x86\_64-apple-darwin15.6.0; 2017-06-02 03:53:14 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -454,13 +454,13 @@ knitr
 A General-Purpose Package for Dynamic Report Generation in R
 </td>
 <td style="text-align:left;">
-R 3.3.0; ; 2018-01-08 01:51:13 UTC; unix
+R 3.4.3; ; 2017-12-28 05:42:36 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -474,13 +474,13 @@ magrittr
 A Forward-Pipe Operator for R
 </td>
 <td style="text-align:left;">
-R 3.3.0; ; 2018-01-08 01:37:30 UTC; unix
+R 3.4.0; ; 2017-04-21 21:17:20 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -494,13 +494,13 @@ markdown
 'Markdown' Rendering for R
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2018-01-08 01:50:19 UTC; unix
+R 3.4.0; x86\_64-apple-darwin15.6.0; 2017-04-21 21:21:20 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -514,13 +514,13 @@ mime
 Map Filenames to MIME Types
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2018-01-08 01:47:00 UTC; unix
+R 3.4.0; x86\_64-apple-darwin15.6.0; 2017-04-21 21:12:03 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -534,13 +534,13 @@ packrat
 A Dependency Management System for Projects and their R Package Dependencies
 </td>
 <td style="text-align:left;">
-R 3.3.0; ; 2018-01-08 01:37:35 UTC; unix
+R 3.4.0; ; 2018-01-08 23:25:04 UTC; unix
 </td>
 <td style="text-align:left;">
 NA
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -554,13 +554,13 @@ pillar
 Coloured Formatting for Columns
 </td>
 <td style="text-align:left;">
-R 3.3.0; ; 2018-01-08 01:38:17 UTC; unix
+R 3.4.3; ; 2017-11-28 05:21:28 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -574,13 +574,13 @@ pkgconfig
 Private Configuration for 'R' Packages
 </td>
 <td style="text-align:left;">
-R 3.3.0; ; 2018-01-08 01:37:38 UTC; unix
+R 3.4.0; ; 2017-04-20 18:51:07 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -594,13 +594,13 @@ plogr
 The 'plog' C++ Logging Library
 </td>
 <td style="text-align:left;">
-R 3.3.0; ; 2018-01-08 01:37:40 UTC; unix
+R 3.4.0; ; 2017-04-21 21:51:53 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -614,13 +614,13 @@ R6
 Classes with Reference Semantics
 </td>
 <td style="text-align:left;">
-R 3.3.0; ; 2018-01-08 01:36:31 UTC; unix
+R 3.4.0; ; 2017-06-18 04:09:19 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -634,13 +634,13 @@ Rcpp
 Seamless R and C++ Integration
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2018-01-08 01:36:51 UTC; unix
+R 3.4.3; x86\_64-apple-darwin15.6.0; 2017-11-24 05:22:56 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -654,13 +654,13 @@ rlang
 Functions for Base Types and Core R and 'Tidyverse' Features
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2018-01-08 01:37:43 UTC; unix
+R 3.4.3; x86\_64-apple-darwin15.6.0; 2017-12-22 05:23:43 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -674,13 +674,13 @@ rmarkdown
 Dynamic Documents for R
 </td>
 <td style="text-align:left;">
-R 3.3.0; ; 2018-01-08 01:51:23 UTC; unix
+R 3.4.2; ; 2017-11-18 05:50:00 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -694,13 +694,13 @@ rprojroot
 Finding Files in Project Subdirectories
 </td>
 <td style="text-align:left;">
-R 3.3.0; ; 2018-01-08 01:51:19 UTC; unix
+R 3.4.0; ; 2018-01-08 23:32:01 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -714,13 +714,13 @@ stringi
 Character String Processing Facilities
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2018-01-08 01:47:25 UTC; unix
+R 3.4.2; x86\_64-apple-darwin15.6.0; 2017-11-18 05:56:42 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -734,13 +734,13 @@ stringr
 Simple, Consistent Wrappers for Common String Operations
 </td>
 <td style="text-align:left;">
-R 3.3.0; ; 2018-01-08 01:50:24 UTC; unix
+R 3.4.0; ; 2017-04-20 17:42:13 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -754,13 +754,13 @@ tibble
 Simple Data Frames
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2018-01-08 01:38:21 UTC; unix
+R 3.4.0; x86\_64-apple-darwin15.6.0; 2018-01-08 23:32:11 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -774,13 +774,13 @@ utf8
 Unicode Text Processing
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2018-01-08 01:37:50 UTC; unix
+R 3.4.0; x86\_64-apple-darwin15.6.0; 2018-01-08 23:31:55 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -794,13 +794,13 @@ yaml
 Methods to Convert R Data to YAML and Back
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2018-01-08 01:50:10 UTC; unix
+R 3.4.3; x86\_64-apple-darwin15.6.0; 2017-12-13 05:37:43 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -808,19 +808,19 @@ CRAN
 base
 </td>
 <td style="text-align:left;">
-3.3.0
+3.4.0
 </td>
 <td style="text-align:left;">
 The R Base Package
 </td>
 <td style="text-align:left;">
-R 3.3.0; ; 2017-07-03 02:38:46 UTC; unix
+R 3.4.0; ; 2017-04-21 20:29:28 UTC; unix
 </td>
 <td style="text-align:left;">
 NA
 </td>
 <td style="text-align:left;">
-./packrat/lib-R/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib-R/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -828,19 +828,19 @@ NA
 boot
 </td>
 <td style="text-align:left;">
-1.3.18
+1.3.19
 </td>
 <td style="text-align:left;">
 Bootstrap Functions (Originally by Angelo Canty for S)
 </td>
 <td style="text-align:left;">
-R 3.3.0; ; 2017-07-03 02:48:22 UTC; unix
+R 3.4.0; ; 2017-04-21 20:35:29 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib-R/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib-R/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -854,13 +854,13 @@ class
 Functions for Classification
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2017-07-03 02:49:19 UTC; unix
+R 3.4.0; x86\_64-apple-darwin15.6.0; 2017-04-21 20:32:14 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib-R/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib-R/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -868,19 +868,19 @@ CRAN
 cluster
 </td>
 <td style="text-align:left;">
-2.0.4
+2.0.6
 </td>
 <td style="text-align:left;">
 "Finding Groups in Data": Cluster Analysis Extended Rousseeuw et al.
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2017-07-03 02:48:39 UTC; unix
+R 3.4.0; x86\_64-apple-darwin15.6.0; 2017-04-21 20:32:14 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib-R/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib-R/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -888,19 +888,19 @@ CRAN
 codetools
 </td>
 <td style="text-align:left;">
-0.2.14
+0.2.15
 </td>
 <td style="text-align:left;">
 Code Analysis Tools for R
 </td>
 <td style="text-align:left;">
-R 3.3.0; ; 2017-07-03 02:48:50 UTC; unix
+R 3.4.0; ; 2017-04-21 20:31:32 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib-R/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib-R/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -908,19 +908,19 @@ CRAN
 compiler
 </td>
 <td style="text-align:left;">
-3.3.0
+3.4.0
 </td>
 <td style="text-align:left;">
 The R Compiler Package
 </td>
 <td style="text-align:left;">
-R 3.3.0; ; 2017-07-03 02:32:54 UTC; unix
+R 3.4.0; ; 2017-04-21 20:23:34 UTC; unix
 </td>
 <td style="text-align:left;">
 NA
 </td>
 <td style="text-align:left;">
-./packrat/lib-R/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib-R/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -928,19 +928,19 @@ NA
 datasets
 </td>
 <td style="text-align:left;">
-3.3.0
+3.4.0
 </td>
 <td style="text-align:left;">
 The R Datasets Package
 </td>
 <td style="text-align:left;">
-R 3.3.0; ; 2017-07-03 02:37:00 UTC; unix
+R 3.4.0; ; 2017-04-21 20:27:59 UTC; unix
 </td>
 <td style="text-align:left;">
 NA
 </td>
 <td style="text-align:left;">
-./packrat/lib-R/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib-R/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -948,19 +948,19 @@ NA
 foreign
 </td>
 <td style="text-align:left;">
-0.8.66
+0.8.67
 </td>
 <td style="text-align:left;">
 Read Data Stored by Minitab, S, SAS, SPSS, Stata, Systat, Weka, dBase, ...
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2017-07-03 02:48:53 UTC; unix
+R 3.4.0; x86\_64-apple-darwin15.6.0; 2017-04-21 20:31:33 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib-R/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib-R/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -968,19 +968,19 @@ CRAN
 graphics
 </td>
 <td style="text-align:left;">
-3.3.0
+3.4.0
 </td>
 <td style="text-align:left;">
 The R Graphics Package
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2017-07-03 02:35:22 UTC; unix
+R 3.4.0; x86\_64-apple-darwin15.6.0; 2017-04-21 20:26:44 UTC; unix
 </td>
 <td style="text-align:left;">
 NA
 </td>
 <td style="text-align:left;">
-./packrat/lib-R/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib-R/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -988,19 +988,19 @@ NA
 grDevices
 </td>
 <td style="text-align:left;">
-3.3.0
+3.4.0
 </td>
 <td style="text-align:left;">
 The R Graphics Devices and Support for Colours and Fonts
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2017-07-03 02:35:10 UTC; unix
+R 3.4.0; x86\_64-apple-darwin15.6.0; 2017-04-21 20:25:51 UTC; unix
 </td>
 <td style="text-align:left;">
 NA
 </td>
 <td style="text-align:left;">
-./packrat/lib-R/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib-R/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -1008,19 +1008,19 @@ NA
 grid
 </td>
 <td style="text-align:left;">
-3.3.0
+3.4.0
 </td>
 <td style="text-align:left;">
 The Grid Graphics Package
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2017-07-03 02:38:20 UTC; unix
+R 3.4.0; x86\_64-apple-darwin15.6.0; 2017-04-21 20:28:52 UTC; unix
 </td>
 <td style="text-align:left;">
 NA
 </td>
 <td style="text-align:left;">
-./packrat/lib-R/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib-R/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -1034,13 +1034,13 @@ KernSmooth
 Functions for Kernel Smoothing Supporting Wand & Jones (1995)
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2017-07-03 02:49:02 UTC; unix
+R 3.4.0; x86\_64-apple-darwin15.6.0; 2017-04-21 20:31:33 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib-R/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib-R/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -1048,19 +1048,19 @@ CRAN
 lattice
 </td>
 <td style="text-align:left;">
-0.20.33
+0.20.35
 </td>
 <td style="text-align:left;">
 Trellis Graphics for R
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2017-07-03 02:40:14 UTC; unix
+R 3.4.0; x86\_64-apple-darwin15.6.0; 2017-04-21 20:31:34 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib-R/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib-R/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -1068,19 +1068,19 @@ CRAN
 MASS
 </td>
 <td style="text-align:left;">
-7.3.45
+7.3.47
 </td>
 <td style="text-align:left;">
 Support Functions and Datasets for Venables and Ripley's MASS
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2017-07-03 02:39:45 UTC; unix
+R 3.4.0; x86\_64-apple-darwin15.6.0; 2017-04-21 20:31:36 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib-R/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib-R/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -1088,19 +1088,19 @@ CRAN
 Matrix
 </td>
 <td style="text-align:left;">
-1.2.6
+1.2.9
 </td>
 <td style="text-align:left;">
 Sparse and Dense Matrix Classes and Methods
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2017-07-03 02:40:56 UTC; unix
+R 3.4.0; x86\_64-apple-darwin15.6.0; 2017-04-21 20:32:11 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib-R/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib-R/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -1108,19 +1108,19 @@ CRAN
 methods
 </td>
 <td style="text-align:left;">
-3.3.0
+3.4.0
 </td>
 <td style="text-align:left;">
 Formal Methods and Classes
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2017-07-03 02:37:02 UTC; unix
+R 3.4.0; x86\_64-apple-darwin15.6.0; 2017-04-21 20:28:07 UTC; unix
 </td>
 <td style="text-align:left;">
 NA
 </td>
 <td style="text-align:left;">
-./packrat/lib-R/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib-R/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -1128,19 +1128,19 @@ NA
 mgcv
 </td>
 <td style="text-align:left;">
-1.8.12
+1.8.17
 </td>
 <td style="text-align:left;">
 Mixed GAM Computation Vehicle with GCV/AIC/REML Smoothness Estimation
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2017-07-03 02:49:33 UTC; unix
+R 3.4.0; x86\_64-apple-darwin15.6.0; 2017-04-21 20:34:28 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib-R/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib-R/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -1148,19 +1148,19 @@ CRAN
 nlme
 </td>
 <td style="text-align:left;">
-3.1.127
+3.1.131
 </td>
 <td style="text-align:left;">
 Linear and Nonlinear Mixed Effects Models
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2017-07-03 02:46:10 UTC; unix
+R 3.4.0; x86\_64-apple-darwin15.6.0; 2017-04-21 20:32:10 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib-R/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib-R/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -1174,13 +1174,13 @@ nnet
 Feed-Forward Neural Networks and Multinomial Log-Linear Models
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2017-07-03 02:49:22 UTC; unix
+R 3.4.0; x86\_64-apple-darwin15.6.0; 2017-04-21 20:31:33 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib-R/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib-R/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -1188,19 +1188,19 @@ CRAN
 parallel
 </td>
 <td style="text-align:left;">
-3.3.0
+3.4.0
 </td>
 <td style="text-align:left;">
 Support for Parallel computation in R
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2017-07-03 02:38:43 UTC; unix
+R 3.4.0; x86\_64-apple-darwin15.6.0; 2017-04-21 20:29:23 UTC; unix
 </td>
 <td style="text-align:left;">
 NA
 </td>
 <td style="text-align:left;">
-./packrat/lib-R/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib-R/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -1208,19 +1208,19 @@ NA
 rpart
 </td>
 <td style="text-align:left;">
-4.1.10
+4.1.11
 </td>
 <td style="text-align:left;">
 Recursive Partitioning and Regression Trees
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2017-07-03 02:49:08 UTC; unix
+R 3.4.0; x86\_64-apple-darwin15.6.0; 2017-04-21 20:31:35 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib-R/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib-R/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -1234,13 +1234,13 @@ spatial
 Functions for Kriging and Point Pattern Analysis
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2017-07-03 02:49:27 UTC; unix
+R 3.4.0; x86\_64-apple-darwin15.6.0; 2017-04-21 20:31:33 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib-R/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib-R/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -1248,19 +1248,19 @@ CRAN
 splines
 </td>
 <td style="text-align:left;">
-3.3.0
+3.4.0
 </td>
 <td style="text-align:left;">
 Regression Spline Functions and Classes
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2017-07-03 02:38:34 UTC; unix
+R 3.4.0; x86\_64-apple-darwin15.6.0; 2017-04-21 20:29:10 UTC; unix
 </td>
 <td style="text-align:left;">
 NA
 </td>
 <td style="text-align:left;">
-./packrat/lib-R/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib-R/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -1268,19 +1268,19 @@ NA
 stats
 </td>
 <td style="text-align:left;">
-3.3.0
+3.4.0
 </td>
 <td style="text-align:left;">
 The R Stats Package
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2017-07-03 02:35:38 UTC; unix
+R 3.4.0; x86\_64-apple-darwin15.6.0; 2017-04-21 20:26:55 UTC; unix
 </td>
 <td style="text-align:left;">
 NA
 </td>
 <td style="text-align:left;">
-./packrat/lib-R/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib-R/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -1288,19 +1288,19 @@ NA
 stats4
 </td>
 <td style="text-align:left;">
-3.3.0
+3.4.0
 </td>
 <td style="text-align:left;">
 Statistical Functions using S4 Classes
 </td>
 <td style="text-align:left;">
-R 3.3.0; ; 2017-07-03 02:38:37 UTC; unix
+R 3.4.0; ; 2017-04-21 20:29:14 UTC; unix
 </td>
 <td style="text-align:left;">
 NA
 </td>
 <td style="text-align:left;">
-./packrat/lib-R/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib-R/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -1308,19 +1308,19 @@ NA
 survival
 </td>
 <td style="text-align:left;">
-2.39.2
+2.41.3
 </td>
 <td style="text-align:left;">
 Survival Analysis
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2017-07-03 02:47:10 UTC; unix
+R 3.4.0; x86\_64-apple-darwin15.6.0; 2017-04-21 20:34:31 UTC; unix
 </td>
 <td style="text-align:left;">
 CRAN
 </td>
 <td style="text-align:left;">
-./packrat/lib-R/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib-R/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -1328,19 +1328,19 @@ CRAN
 tcltk
 </td>
 <td style="text-align:left;">
-3.3.0
+3.4.0
 </td>
 <td style="text-align:left;">
 Tcl/Tk Interface
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2017-07-03 02:38:40 UTC; unix
+R 3.4.0; x86\_64-apple-darwin15.6.0; 2017-04-21 20:29:16 UTC; unix
 </td>
 <td style="text-align:left;">
 NA
 </td>
 <td style="text-align:left;">
-./packrat/lib-R/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib-R/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -1348,19 +1348,19 @@ NA
 tools
 </td>
 <td style="text-align:left;">
-3.3.0
+3.4.0
 </td>
 <td style="text-align:left;">
 Tools for Package Development
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2017-07-03 02:32:53 UTC; unix
+R 3.4.0; x86\_64-apple-darwin15.6.0; 2017-04-21 20:23:32 UTC; unix
 </td>
 <td style="text-align:left;">
 NA
 </td>
 <td style="text-align:left;">
-./packrat/lib-R/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib-R/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 <tr>
@@ -1368,20 +1368,54 @@ NA
 utils
 </td>
 <td style="text-align:left;">
-3.3.0
+3.4.0
 </td>
 <td style="text-align:left;">
 The R Utils Package
 </td>
 <td style="text-align:left;">
-R 3.3.0; x86\_64-pc-linux-gnu; 2017-07-03 02:34:43 UTC; unix
+R 3.4.0; x86\_64-apple-darwin15.6.0; 2017-04-21 20:25:12 UTC; unix
 </td>
 <td style="text-align:left;">
 NA
 </td>
 <td style="text-align:left;">
-./packrat/lib-R/x86\_64-pc-linux-gnu/3.3.0
+./packrat/lib-R/x86\_64-apple-darwin15.6.0/3.4.0
 </td>
 </tr>
 </tbody>
 </table>
+`.Rprofile`
+-----------
+
+packrat uses `.Rprofile` in the current directory, the caveats for this are mentioned in the [documentation]().
+
+``` r
+## honour user .Rprofile
+if (file.exists(Sys.getenv("R_PROFILE_USER"))) {
+  source(Sys.getenv("R_PROFILE_USER"))
+} else if(file.exists(path.expand("~/.Rprofile"))) {
+  source(path.expand("~/.Rprofile"))
+}
+```
+
+``` r
+#### -- Packrat Autoloader (version 0.4.8-54) -- ####
+source("packrat/init.R")
+#### -- End Packrat Autoloader -- ####
+```
+
+packrat unloads any packages that `~/.Rprofile` loads so YMMV.
+
+Source vs Binary
+----------------
+
+Version 0.4.9 fixes a [mirror build issue](https://github.com/rstudio/packrat/blame/master/NEWS.md#L20-L22) where a binary version of a release has not be built. This can manifest in a portability issue between a machine where source installs are the default and transitioning to a machine where binary installs are the default. i.e. Linux -&gt; macos
+
+While 0.4.9 remains unreleased the options are
+
+    1. bootstrapping must be performed outside a packrat project
+        1.1 `install.packages('devtools')`
+        1.2 `devtools::install_github('rstudio/packrat')`
+    2. include packrat in `packrat/src` - possibly a good idea anyway @ 125KB overhead
+        2.1 See [include-packrat branch](https://github.com/kiwiroy/exploring-packrat/tree/include-packrat)
