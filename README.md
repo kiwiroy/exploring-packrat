@@ -1385,6 +1385,8 @@ NA
 </tr>
 </tbody>
 </table>
+.
+
 Loading `.Rprofile`
 -------------------
 
