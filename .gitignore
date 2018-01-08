@@ -1,4 +1,7 @@
 packrat/lib*/
-packrat/src/
+packrat/src/*
+!packrat/src/packrat
+!packrat/src/packrat/*.tar.gz
+
 .Rhistory
 .Rproj.user
