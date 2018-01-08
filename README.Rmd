@@ -102,3 +102,35 @@ libraries.df$LibPath <- gsub(project_dir, ".", libraries.df$LibPath, fixed = TRU
 
 knitr::kable(libraries.df, align=c('l'), format = "html")
 ```
+
+## `.Rprofile`
+
+packrat uses `.Rprofile` in the current directory, the caveats for this are mentioned in the [documentation]().
+
+```{r rprofile-additions, eval = FALSE}
+## honour user .Rprofile
+if (file.exists(Sys.getenv("R_PROFILE_USER"))) {
+  source(Sys.getenv("R_PROFILE_USER"))
+} else if(file.exists(path.expand("~/.Rprofile"))) {
+  source(path.expand("~/.Rprofile"))
+}
+```
+
+```{r packrat-template, eval = FALSE}
+#### -- Packrat Autoloader (version 0.4.8-54) -- ####
+source("packrat/init.R")
+#### -- End Packrat Autoloader -- ####
+```
+
+packrat unloads any packages that `~/.Rprofile` loads so YMMV.
+
+## Source vs Binary
+
+Version 0.4.9 fixes a [mirror build issue](https://github.com/rstudio/packrat/blame/master/NEWS.md#L20-L22) where a binary version of a release has not be built. This can manifest in a portability issue between a machine where source installs are the default and transitioning to a machine where binary installs are the default. i.e. Linux -> macos
+
+While 0.4.9 remains unreleased the options are
+
+1. bootstrapping must be performed outside a packrat project
+    1.1 `install.packages('devtools')`
+    1.2 `devtools::install_github('rstudio/packrat')`
+2. include packrat in `packrat/src` - possibly a good idea anyway @ 125KB overhead
