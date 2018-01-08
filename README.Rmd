@@ -6,7 +6,7 @@ output: github_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = TRUE, verbose = TRUE, progress = TRUE)
 library(dplyr)
 ```
 
@@ -54,4 +54,51 @@ packrat::snapshot()
 
 ```{r status, eval = FALSE}
 packrat::status()
+```
+
+#### Save
+
+```{r save, eval = FALSE}
+packrat::snapshot()
+```
+
+### What is installed?
+
+```{r what-is-installed, echo = FALSE, results = 'markup', message = FALSE, warning = FALSE}
+libraries    <- library(lib.loc=NULL)
+libraries.df <- data.frame(
+  Package     = libraries$results[,"Package"],
+  Version     = NA,
+  Title       = gsub("\\n|\\r", " ", libraries$results[,"Title"], fixed = FALSE, perl = TRUE),
+  Built       = NA,
+  Repo        = NA,
+  LibPath     = libraries$results[,"LibPath"]
+)
+
+for(i in seq(nrow(libraries.df))) {
+  ## What package?
+  pkg     <- as.character(libraries.df$Package[i])
+
+  ## Package version
+  Version <- as.character(packageVersion(pkg, lib.loc=libraries.df$LibPath[i]))
+
+  ## packageDescription elements to add...
+  pkgDesc <- packageDescription(pkg, lib.loc=libraries.df$LibPath[i])
+
+  Built       <- pkgDesc$Built
+  Repo        <- pkgDesc$Repository
+
+  libraries.df$Version[i]       <- Version
+  if(!is.null(Built)) {
+    libraries.df$Built[i]       <- Built
+  }
+  if(!is.null(Repo)) {
+    libraries.df$Repo[i]        <- Repo
+  }
+}
+# finally make path relative.
+project_dir <- packrat::project_dir()
+libraries.df$LibPath <- gsub(project_dir, ".", libraries.df$LibPath, fixed = TRUE)
+
+knitr::kable(libraries.df, align=c('l'), format = "html")
 ```
