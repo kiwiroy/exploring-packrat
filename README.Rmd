@@ -103,7 +103,7 @@ libraries.df$LibPath <- gsub(project_dir, ".", libraries.df$LibPath, fixed = TRU
 knitr::kable(libraries.df, align=c('l'), format = "html")
 ```
 
-## `.Rprofile`
+## Loading `.Rprofile`
 
 packrat uses `.Rprofile` in the current directory, the caveats for this are mentioned in the [documentation]().
 

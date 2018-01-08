@@ -1385,8 +1385,8 @@ NA
 </tr>
 </tbody>
 </table>
-`.Rprofile`
------------
+Loading `.Rprofile`
+-------------------
 
 packrat uses `.Rprofile` in the current directory, the caveats for this are mentioned in the [documentation]().
 
